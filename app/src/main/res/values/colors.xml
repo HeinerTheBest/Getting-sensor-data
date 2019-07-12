@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="colorNoLight">#000000</color>
+    <color name="colorSomeLight">#A59D72</color>
+    <color name="colorNormalLight">#FFE51A</color>
+    <color name="colorMoreThanNormalLight">#D86417</color>
+    <color name="colorTooMuchLight">#FF0000</color>
+
+
+</resources>
